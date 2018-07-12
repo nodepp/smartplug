@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf9ae78ee15bbe789bd0ccc7cb8834a62aa0d7c0">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sunflower_bccb038a1f2c6a0dc8030362d49994bb092ec111/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8fa9304e376adaf936c3db097240d2efcb116f">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/wup-1.0.0-SNAPSHOT_54fc425ec75003f821400e7a3d1528d69df4c6dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f350e4a9d6ebd2bb35482eeccde6403e1ecfd8c7">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_490ae01702986efb7c0c44ed6b4e58257fc52d0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a379e880910ddf406c16c27fe29d26301b2aa6d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/mobilepb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5e62566e5023a4497edcb883324e82771c8c9fb">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilepb_13983714b28d5d9ce826bcb94ff0929de19b31d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/mta-sdk-1.6.2_067f5297b1896e954545a42018178d54a1a78c7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/bugly_1.3.0_imsdk_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21904f398a294a014c7a5611cb58d7eeb49e056b">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/bugly_1.3.0_imsdk_release_a4fa3636384f4d1501024293f8b811361f1b2222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a190a9f5bce922a94fe0eec5235abe8fc10900a">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/core_26a26230a29cd2f418bd3c3ee860dc00047e630e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/imsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="413ab6d5f5470d7ac9c099b57109d2ccebe9defd">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/imsdk_972682c568d0f96e79a71b8721b73792eb082c80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/protobuf-java-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a10732c76bfacdbd633a7eb0f7968b1059a65dfa">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/protobuf-java-2.5.0_05ef14c6a5f8ba98ad4af452eecf1d57b8c81e35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/jpush-android-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c74a7c1d1e250f985ee21309e43b7e800fd2e2f3">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-3.1.0_fe7e223d87a24e71c518f81c76baec76f5086284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/qalsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f42ec16ac68dab763561efaac42509232cf1ea2c">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/qalsdk_1820ea2d2af40a8536132287d24ef5fc2b81cd9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/open_sdk_r5756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/open_sdk_r5756_e93e6f1e733a55c4a6acc95a519bad3b8338bcb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87c9c56d351f41f7e5fd29a036a13ceccf885e15">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_8aa39476c555538b9959cc7c51c6b5e145f838f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/xUtils-2.6.14_9f5ad564cac3d2a95744adcb9eb6f22bd85b8d94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/jcore-android-1.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a304a7d6b40ebc037707d59eeeb4a0cfeca80e93">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android-1.1.8_fc80461313824918f932cb87896766b8146466c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/AMap_Location_V3.2.0_20161206.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b79e4bf9265148e1e27a4c4af94e44150c44a7df">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V3.2.0_20161206_b6156e0195dafc68a302d2e9b7b9eb9fbe7916f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/tls_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c5362cce8b694aa3ae38a8376ffa707a145fb79">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/tls_sdk_b2036686a28c0fd6c31a6e096d1a204b9e74e4ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nodepp/Documents/workspace/android/smartplug/app/libs/txrtmpsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca03fd85885abefd0b6f9250c0bd6ef66b50a3e9">
+        <dex dex="/Users/nodepp/Documents/workspace/android/smartplug/app/build/intermediates/transforms/dex/debug/folders/1000/2/txrtmpsdk_cd712824d41214a0107829d0b9b19f093f118b8c/classes.dex" />
+    </item>
+
+</items>
